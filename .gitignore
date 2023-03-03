@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea
+!.idea/icon.png
+!.idea/codeInsightSettings.xml
+*.iml
+
+#Gradle
+.gradle
+build/
+webpack.config.d/
+
+#NPM
+*.tgz
+package-lock.json
+yarn-lock.json
+node_modules/
+
